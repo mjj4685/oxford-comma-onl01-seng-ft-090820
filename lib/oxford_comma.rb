@@ -1,6 +1,11 @@
 
 berries = ["kiwi", "durian", "starfruit", "mangos", "dragon fruits"]
 def oxford_comma(array)
- array = ["kiwi"]
- array.join
+  if array.length == 1
+
+  elsif array.length == 2
+
+  else
+
+  end
 end
