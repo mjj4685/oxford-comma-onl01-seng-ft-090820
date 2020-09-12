@@ -1,5 +1,4 @@
 
-berries = ["kiwi", "durian", "starfruit", "mangos", "dragon fruits"]
 def oxford_comma(array)
   if array.length == 1
 
