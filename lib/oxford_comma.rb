@@ -1,3 +1,3 @@
 def oxford_comma(array)
- array = ["element"]
+ array = ["kiwi","lemon","strawberry"]
 end
