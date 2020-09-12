@@ -5,7 +5,8 @@ def oxford_comma(array)
 puts "kiwi"
   elsif array.length == 2
 array.join("and")
-  else
+  elsif array.length == 3
+array.join(",",",","and")
 
   end
 end
